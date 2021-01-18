@@ -1,0 +1,16 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource>
+		<file>img/audio.png</file>
+    <file>img/exe.png</file>
+    <file>img/img.png</file>
+    <file>img/pdf.png</file>
+    <file>img/txt.png</file>
+    <file>img/video.png</file>
+   <file>img/more.png</file>
+    <file>img/help.png</file>
+    <file>img/home.png</file>
+    <file>img/logo.png</file>
+	<file>img/GIF.gif</file>	
+	</qresource>
+</RCC>
